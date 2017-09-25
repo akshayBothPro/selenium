@@ -1,4 +1,4 @@
-package selenium;
+package seleniumClasses;
 
 public class test1 {
 

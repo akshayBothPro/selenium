@@ -1,4 +1,4 @@
-package selenium;
+package seleniumClasses;
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;

@@ -1,3 +1,4 @@
+package seleniumClasses;
 import junit.framework.TestSuite;
 
 public class Test {
